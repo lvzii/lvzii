@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @lvzii
-- 👀 I’m interested in nlp, chitbot, retrival...
+- 👀 I’m interested in nlp, cv, retrival, etc.
+- ⚒️ My skills: llm
+- 🌱 I’m currently engaged in llm-related work.
 - 📫 My packages: [nlpertools](https://github.com/lvzii/nlpertools)
-- 🧶 My idea: [Prompt-DIY](https://github.com/lvzii/Prompt-DIY)
-- 🌱 I’m currently learning what I'm interested in.
-- 💞️ I’m looking to collaborate on ?
+- 🧶 My idea: [AICut(It is private now😜)](https://github.com/lvzii/AICut)
+- 🎓 The fields I have worked in: Digital Humanities, EDA, Information Science.
 
 <!---
 lvzii/lvzii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
