@@ -5,6 +5,7 @@
 - 📫 My packages: [nlpertools](https://github.com/lvzii/nlpertools)
 - 🧶 My idea: [AICut(It is private now😜)](https://github.com/lvzii/AICut)
 - 🎓 The fields I have worked in: Digital Humanities, EDA, Information Science.
+- 🌐 [blog](https://juejin.cn/user/4455691303791918)
 
 <!---
 lvzii/lvzii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
